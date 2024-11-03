@@ -5,7 +5,7 @@
 Hi, I'm Jarupong Deenit! I’m an aspiring Full Stack Web Developer passionate about building solutions that make an impact. With hands-on experience in Java, C#, JavaScript, React, Node, and Express, I’m constantly refining my skills and expanding my toolkit. Currently, I’m pursuing a Diploma in Information Technology, balancing part-time work in customer service with my studies and side projects, including a portfolio website and a unique food app concept. I enjoy tackling challenges, learning from real-world projects, and exploring ways technology can solve everyday problems. I’m excited to connect and collaborate as I grow my career in tech!
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/mdeenit">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jarupong Deenit" /></a>
 </p>
 
